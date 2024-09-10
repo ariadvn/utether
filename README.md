@@ -1,20 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+This is a uservice project from Turing Research Team.
+<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
+npm run dev -- -p 2000
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn dev -p 2000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the result.
 
 You can edit the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 <br/>
